@@ -22,6 +22,7 @@ CMD gunicorn --workers 3 -b 0.0.0.0:8000 config.wsgi
 ```
 
 Please make sure to add `gunicorn` as a Python package dependency in your `requirements.txt` file.
+
 `requirements.txt`
 ```plaintext
 gunicorn==19.10.0
