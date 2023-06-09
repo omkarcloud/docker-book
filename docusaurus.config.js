@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/omkarcloud/docker/tree/main/packages/create-docusaurus/templates/shared/",
+          "https://github.com/omkarcloud/docker-book/blob/master",
         },
         blog: false,
         theme: {
@@ -86,7 +86,7 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: "https://github.com/omkarcloud/docker",
+            href: "https://github.com/omkarcloud/docker-book",
             label: "GitHub",
             position: "right",
           },
@@ -113,7 +113,7 @@ const config = {
               // },
               {
                 label: "GitHub",
-                href: "https://github.com/omkarcloud/docker",
+                href: "https://github.com/omkarcloud/docker-book",
               },
             ],
           },
@@ -126,7 +126,7 @@ const config = {
               // },
               {
                 label: "GitHub",
-                href: "https://github.com/omkarcloud/docker",
+                href: "https://github.com/omkarcloud/docker-book",
               },
             ],
           },
